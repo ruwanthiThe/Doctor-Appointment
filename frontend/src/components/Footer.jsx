@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-40" src={assets.logo} alt="" />
           <p className="w-full md:w-2/3 text-gray-600 leading-6">
-            Prescripto is a modern doctor appointment booking platform designed to simplify healthcare access for patients and streamline schedules for medical professionals. With just a few clicks, users can discover qualified doctors, view availability in real-time, and securely book appointments.
+            Medilink is a modern doctor appointment booking platform designed to simplify healthcare access for patients and streamline schedules for medical professionals. With just a few clicks, users can discover qualified doctors, view availability in real-time, and securely book appointments.
           </p>
         </div>
 
@@ -28,8 +28,8 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>+91-8395861878</li>
-            <li>vedantbaliyan123@gmail.com</li>
+            <li>+94-712345768</li>
+            <li>medilink123@gmail.com</li>
           </ul>
         </div>
       </div>
@@ -38,7 +38,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright © 2025 VedantBaliyan - All Right Reserved
+          Copyright © 2025 Medilink - All Right Reserved
         </p>
       </div>
     </div>

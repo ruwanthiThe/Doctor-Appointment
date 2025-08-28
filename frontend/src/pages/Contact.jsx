@@ -20,13 +20,13 @@ const Contact = () => {
         <div className="flex flex-col justify-center items-start gap-6">
           <p className="font-semibold text-lg text-gray-600">OUR OFFICE</p>
           <p className="text-gray-500">
-            54709 Willms Station <br /> Suite 350, Washington, USA
+            No. 123, Galle Road <br /> Colombo 03, Sri Lanka
           </p>
           <p className="text-gray-500">
-            Tel: (415) 555‑0132 <br /> Email: elyseniyibizi502@gmail.com
+            Tel: +94 11 2345678 <br /> Email: info@doctorappointment.lk
           </p>
           <p className="font-semibold text-lg text-gray-600">
-            CAREERS AT PRESCRIPTO
+            CAREERS AT Medilink
           </p>
           <p className="text-gray-500">
             Learn more about our teams and job openings.
